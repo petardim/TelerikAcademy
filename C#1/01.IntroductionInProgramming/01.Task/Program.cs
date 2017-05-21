@@ -6,7 +6,7 @@ namespace _01.Task
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Helffssrld!");
+            Console.WriteLine("Helffssdsrld!");
         }
     }
 }
